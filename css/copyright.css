@@ -5,6 +5,8 @@ footer{
 .copyright{
 	width: 1100px;height: 100%;
 	margin: 0 auto;font-size: 12px;
-	line-height: 20px;}
+	/*line-height: 20px;*/
+}
 .a6{text-decoration: none;color: #666;}
 .a6:hover{color: red;text-decoration: underline;}
+.p_2{margin: 3px auto;}
